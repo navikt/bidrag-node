@@ -2,7 +2,7 @@ name: Build Node Artifact
 description: Builds node artifact
 inputs:
   artifact_folder:
-    description: the folder where the action has its source code
+    description: the folder where the artifact has its source code
     required: true
     default: "."
 runs:
