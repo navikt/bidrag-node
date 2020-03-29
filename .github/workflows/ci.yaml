@@ -17,7 +17,7 @@ jobs:
       - name: Debug workspace
         run: env
       - name: Install build-with-ncc
-        uses: navikt/bidrag-node/build-with-ncc@master
+        uses: navikt/bidrag-node/build-with-ncc@v1
         with:
           artifact_folder: bidrag-node/build-with-ncc
       - name: Generate timestamp
