@@ -14,4 +14,5 @@ endres når man skal forandre logikk i "action".
 
 Versjon | Endringstype | Beskrivelse
 --------|--------------|------------
-v1      | Opprettet    | `build-with-ncc`: bygg av node komponenter med ncc
+v1.0.1  | Endret.      | `build-with-ncc`: versjonsavhengigheter
+v1.0.0  | Opprettet    | `build-with-ncc`: bygg av node komponenter med ncc
