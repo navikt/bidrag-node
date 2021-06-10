@@ -2,7 +2,7 @@
 Github node Actions spesialisert for team bidrag
 
 ### Continuous integration
-![](https://github.com/navikt/bidrag-node/workflows/build%20actions/badge.svg)
+[![build actions](https://github.com/navikt/bidrag-node/actions/workflows/ci.yaml/badge.svg)](https://github.com/navikt/bidrag-node/actions/workflows/ci.yaml)
 
 ### Hovedregel for design:
 Alt blir utført av bash-scripter slik at det enkelt kan testes på reell kodebase uten å måtte bygge med github.
